@@ -1,0 +1,128 @@
+manual white
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - - - B - - - -
+ 7 - - - - W - - - -
+ 6 B - - - W - - - B
+ 5 B B W W K W W B B
+ 4 B - - - W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B - - - -
+ 1 - - - B B B - - -
+   a b c d e f g h i
+===
+> d1-4
+> d5-7
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - - - B - - - -
+ 7 - - - W W - - - -
+ 6 B - - - W - - - B
+ 5 B B W - K W W B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B - - - -
+ 1 - - - - B B - - -
+   a b c d e f g h i
+===
+> f1-2
+> c5-8
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 B - - - W - - - B
+ 5 B B - - K W W B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
+> e5-d
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 B - - - W - - - B
+ 5 B B - - K W W B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
+> a6-c
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 - - B - W - - - B
+ 5 B B - - K W W B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
+> e5-d
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 - - B - W - - - B
+ 5 B B - K - W W B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
+> c6-d
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 - - - B W - - - B
+ 5 B B - K - W W B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
+> g5-6
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 - - - B W - W - B
+ 5 B B - K - W - B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
+> b5-c
+> dump
+===
+ 9 - - - B B B - - -
+ 8 - - W - B - - - -
+ 7 - - - W W - - - -
+ 6 - - - B W - W - B
+ 5 B - B K - W - B B
+ 4 B - - B W - - - B
+ 3 - - - - W - - - -
+ 2 - - - - B B - - -
+ 1 - - - - B - - - -
+   a b c d e f g h i
+===
